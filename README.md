@@ -8,7 +8,7 @@ A 4-wheel autonomous exploration robot built with an ESP32 microcontroller, capa
 
 ## Demo
 
-🎥 [Watch demo video](https://youtu.be/grLDTA6npIw?si=5E7VO1Nz275xwdZ7)
+🎥 [Watch demo video](https://youtu.be/grLDTA6npIw)
 
 ---
 
