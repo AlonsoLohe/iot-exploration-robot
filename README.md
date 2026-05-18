@@ -97,7 +97,7 @@ The robot publishes sensor data to the following Adafruit IO feeds:
 
 | | |
 |---|---|
-| ![](photos/photo1.jpg) | ![](photos/photo2.jpg) |
+| ![](photos/photo1.jpg) | ![](photos/photo2.jpeg) |
 
 ---
 
